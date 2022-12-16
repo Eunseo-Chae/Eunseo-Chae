@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/안녕하슈-FFCA28?style=for-the-badge&logo=JJ&logoColor=white">
-<img src="https://img.shields.io/badge/꾸미는중-#F5F5DC?style=for-the-badge&logo=JJ&logoColor=black">
+<img src="https://img.shields.io/badge/꾸미는중-F5F5DC?style=for-the-badge&logo=JJ&logoColor=black">
 
