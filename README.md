@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://img.shields.io/badge/안녕-FFCA28?style=for-the-badge&logo=JJ&logoColor=white">
+<img src="https://img.shields.io/badge/안녕하슈-FFCA28?style=for-the-badge&logo=JJ&logoColor=white">
