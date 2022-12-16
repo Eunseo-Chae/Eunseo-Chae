@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##안녕하세요^_^
+###안녕하세요^_^
 
 Here are some ideas to get you started:
 
